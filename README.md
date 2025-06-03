@@ -134,11 +134,11 @@ graph LR
 
 </div>
 
-- 🚀 **Building production-ready applications** with intelligent features and AI integration
-- 📈 **Performance optimization specialist** - consistently deliver 40%+ improvements in system efficiency
-- 🤖 **Exploring AI applications** in web development and user experience enhancement
-- 🤝 **Open to challenging full-time opportunities** starting Summer 2027
-- 💡 **Love architecting scalable solutions** that handle enterprise-level traffic
+🚀 **Building production-ready applications** with intelligent features and AI integration
+📈 **Performance optimization specialist** - consistently deliver 40%+ improvements in system efficiency
+🤖 **Exploring AI applications** in web development and user experience enhancement
+🤝 **Open to challenging full-time opportunities** starting Summer 2027
+💡 **Love architecting scalable solutions** that handle enterprise-level traffic
 
 ---
 
