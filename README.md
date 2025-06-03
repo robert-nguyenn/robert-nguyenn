@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=robert-nguyenn&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/robert-nguyenn?style=for-the-badge&color=4CAF50" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
 </div>
 
 ## 🎖️ Key Achievements & Impact
