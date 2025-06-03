@@ -170,9 +170,3 @@ graph LR
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=%22Code+is+like+humor%E2%80%94if+you+have+to+explain+it%2C+it's+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+code+is+no+code+at+all.%22" alt="Rotating Quotes"/>
 </div>
-
----
-
-<div align="center">
-  <sub>💡 <i>Always open to interesting conversations and collaboration opportunities!</i></sub>
-</div>
