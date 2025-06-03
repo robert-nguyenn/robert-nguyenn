@@ -105,47 +105,14 @@ const robert = {
 
 <div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th>🏢 Company</th>
-      <th>👩‍💻 Role</th>
-      <th>📅 Duration</th>
-      <th>🔗 Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Propvia</strong></td>
-      <td>Software Engineer Intern</td>
-      <td>06/2025 – 09/2025</td>
-      <td>Building enterprise React components with advanced optimization techniques</td>
-    </tr>
-    <tr>
-      <td><strong>Theta Zero Consulting</strong></td>
-      <td>Software Engineer Intern</td>
-      <td>12/2024 – 05/2025</td>
-      <td>Full-stack development & CI/CD pipeline setup</td>
-    </tr>
-    <tr>
-      <td><strong>Novatek Technology JSC</strong></td>
-      <td>Software Engineer Intern</td>
-      <td>05/2024 – 11/2024</td>
-      <td>Performance optimization on high-traffic platforms</td>
-    </tr>
-    <tr>
-      <td><strong>Centre College</strong></td>
-      <td>Undergraduate Research Assistant</td>
-      <td>01/2024 – 05/2024</td>
-      <td>Built Python ML pipeline processing 100K+ soccer telemetry events w/ 98% acc.</td>
-    </tr>
-  </tbody>
-</table>
+| 🏢 Company                     | 👩‍💻 Role                         | 📅 Duration        | 🔗 Highlights                                                                 |
+|-------------------------------|----------------------------------|-------------------|------------------------------------------------------------------------------|
+| **Propvia**                   | Software Engineer Intern         | 06/2025 – 09/2025 | Building enterprise React components with advanced optimization techniques   |
+| **Theta Zero Consulting**     | Software Engineer Intern         | 12/2024 – 05/2025 | Full-stack development & CI/CD pipeline setup                                |
+| **Novatek Technology JSC**    | Software Engineer Intern         | 05/2024 – 11/2024 | Performance optimization on high-traffic platforms                           |
+| **Centre College**            | Undergraduate Research Assistant | 01/2024 – 05/2024 | Built Python ML pipeline processing 100K+ soccer telemetry events w/ 98% acc. |
 
 </div>
-
-
-
 
 ---
 
