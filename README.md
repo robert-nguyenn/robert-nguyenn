@@ -25,9 +25,9 @@
 | 🎯 **Metric** | 📊 **Achievement** | 🚀 **Context** |
 |---------------|-------------------|----------------|
 | **Performance** | 40% load time reduction | High-traffic consumer platforms |
-| **Scale** | 10K+ daily users | Production applications |
+| **Scale** | 100K+ daily users | Production applications |
 | **Deployment** | 60% faster CI/CD | Automated pipeline optimization |
-| **Leadership** | 300+ students mentored | Campus community building |
+| **Leadership** | 50+ students mentored | Campus community building |
 | **Experience** | 3 tech internships | Diverse industry exposure |
 
 </div>
@@ -54,6 +54,11 @@ const robert = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI Skills"/>
+</p>
 
 ### 🎨 Frontend Technologies
 <p>
@@ -102,10 +107,10 @@ const robert = {
 
 | 🏢 Company | 👨‍💻 Role | 📅 Duration | 🔗 Highlights |
 |------------|-----------|-------------|---------------|
-| **Propvia** | Software Engineer Intern | Jun 2025 – Sep 2025 | Responsive UI components & dashboard experience |
-| **Theta Zero Consulting** | Software Engineer Intern | Dec 2024 – Present | Full-stack development & CI/CD pipeline setup |
+| **Propvia** | Software Engineer Intern | Jun 2025 - Sep 2025 | Architecting scalable dashboard, optimizing React performance with lazy loading |
+| **Theta Zero Consulting** | Software Engineer Intern | Dec 2024 – May 2025 | Full-stack development & CI/CD pipeline setup |
 | **Novatek Technology JSC** | Software Engineer Intern | May 2024 – Nov 2024 | Performance optimization on high-traffic platforms |
-| **Centre College** | IT Technician | jan 2024 - May 2024 | Campus systems maintenance |
+| **Centre College** | Undergraduate Research Assistant | Jan 2024 - May 2024 | Sport Analytics Research |
 
 </div>
 
@@ -129,28 +134,43 @@ graph LR
 
 </div>
 
-- 🚀 **Building production-ready applications** that handle thousands of concurrent users
-- 📈 **Passionate about performance optimization** - reduced load times by 40% across multiple projects
+- 🚀 **Building production-ready applications** with intelligent features and AI integration
+- 📈 **Performance optimization specialist** - consistently deliver 40%+ improvements in system efficiency
+- 🤖 **Exploring AI applications** in web development and user experience enhancement
 - 🤝 **Open to challenging full-time opportunities** starting Summer 2027
-- 💡 **Love solving complex problems** through elegant, scalable solutions
-- 🌟 **Seeking mentorship opportunities** at top-tier tech companies
+- 💡 **Love architecting scalable solutions** that handle enterprise-level traffic
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🌟 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/robert-nguyenn/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nguyenn&repo=project1&theme=radical" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/robert-nguyenn/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nguyenn&repo=project2&theme=radical" alt="Project 2"/>
+  </a>
+</div>
+
+---
+
+## 🤝 Ready for Your Next Challenge?
+
+<div align="center">
+  
+**🎯 Actively seeking Summer 2027 New Grad opportunities at innovative tech companies**
+
+*Passionate about building scalable systems, optimizing performance, and integrating AI into user experiences*
+
   <a href="https://www.linkedin.com/in/robert-nguyenn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:robert.nguyenanh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/robert-nguyenn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/GitHub-View_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
