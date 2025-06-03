@@ -1,132 +1,153 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────────────────┐
-  │   ______          _      _               _   _                        │
-  │  |  ____|        | |    (_)             | \ | |                       │
-  │  | |__  __  _____| |_ ___ _ ___  ___    |  \| | _____   _____ _ __    │
-  │  |  __| \ \/ / _ \ __/ __| / __|/ _ \   | . ` |/ _ \ \ / / _ \ '__|   │
-  │  | |____ >  <  __/ |_\__ \ \__ \  __/   | |\  |  __/\ V /  __/ |      │
-  │  |______/_/\_\___|\__|___/_|___/\___|   |_| \_|\___| \_/ \___|_|      │
-  │                                                                         │
-  │                 Robert Nguyen • Centre College ’27                      │
-  └─────────────────────────────────────────────────────────────────────────┘
--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Robert+Nguyen!+%F0%9F%91%8B;Full-Stack+Developer;CS+'27+%40+Centre+College;Always+Learning+%26+Building" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertNguyen/RobertNguyen/main/banner_dark.svg">
-    <img alt="Robert Nguyen GitHub Banner" src="https://raw.githubusercontent.com/RobertNguyen/RobertNguyen/main/banner_light.svg" width="100%">
-  </picture>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Welcome to my Digital Playground!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=robert-nguyenn&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/robert-nguyenn?style=for-the-badge&color=4CAF50" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const robert = {
+    pronouns: "he/him",
+    location: "Centre College, Kentucky 🏫",
+    currentFocus: "Full-Stack Development & System Architecture",
+    yearOfGraduation: 2027,
+    workingOn: "Building scalable web applications",
+    learningNext: ["GraphQL", "Kubernetes", "Microservices"],
+    askMeAbout: ["React", "Django", "System Design", "DevOps"],
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind" alt="Frontend Skills"/>
 </p>
 
----
-
-## 👋 Hi there, I’m **Robert Nguyen**
-
-- 🔭 I’m currently a **Computer Science** major at **Centre College**, Class of 2027.  
-- 🌱 I love building **full-stack** web applications—both front-end (Next.js, React, Tailwind CSS) and back-end (Django, PostgreSQL, Docker).  
-- 💼 I’ve interned at companies like **Novatek Technology JSC** and **Propvia**, focusing on Data Structures & Algorithms, internship interview prep, and building out real‐world apps.  
-- 🌐 I’m originally from **Hanoi, Vietnam**, studying in the U.S. on an **F-1 visa**—always looking to learn more about cloud infra, CI/CD pipelines, and AI-powered tools.  
-- ⚡ Fun fact: I also work as an **RA** at Centre College and enjoy service‐learning projects, leadership roles, and community engagement.
-
----
-
-## 🛠️ My Tech Stack
-
-| Front-End                      | Back-End / Database           | DevOps / CI-CD         | Languages   |
-|:------------------------------:|:-----------------------------:|:----------------------:|:-----------:|
-| React / Next.js                | Django                        | Docker                 | Java        |
-| TypeScript                     | PostgreSQL                     | Terraform              | Python      |
-| Tailwind CSS                   | Supabase / Firebase (experimenting) | GitLab CI / GitHub Actions | JavaScript  |
-| HTML5 & CSS3                   | Redis (caching)                | Git & GitLab / GitHub  | TypeScript  |
-| Framer Motion (animations)     | REST APIs / GraphQL (basics)  | Heroku / Vercel        | SQL         |
-| Chart.js / Recharts (visuals)  | Linux / bash scripting         |                      | YAML / JSON |
-
----
-
-## 🚀 Key Projects
-
-### 1. **Front-End Dev Platform (front-end-dev.com)**
-- A **community & learning platform** for aspiring front-end engineers.
-- Built with plain **HTML / CSS / JavaScript** (no React or Bootstrap by design) to emphasize fundamentals.
-- Features:  
-  - **Interview prep** guides (JS, CSS, HTML)  
-  - **Learning roadmap** from zero to advanced (documented step by step)  
-  - “**Share your journey**” section where members post tips & resources.  
-  - **Mentorship pairing** built on a dynamic form + simple matching logic.
-
-### 2. **Software Insight Website**
-- A **multi-page site** (index, courses, contact, interview, internship) for tech courses & resources.
-- Originally a single `styles.css` and `scripts.js”`—now broken into modular files for performance:
-  - Separated CSS into `/css/components/ / layout/ / pages/`  
-  - JS modules under `/js/utils/ / api/ / ui/`
-- Performance improvement:  
-  - **First‐Contentful Paint** reduced by 18% after splitting and lazy-loading assets.  
-  - **PageWeight** down from 1.8 MB → 1.2 MB by optimizing images & minifying CSS/JS.
-
-### 3. **Portfolio (“Personal Site”)**
-- Built in **Next.js 15 + Tailwind CSS + TypeScript**.
-- Includes:  
-  - **Smooth scrolling** → user experience enhancements.  
-  - **LeetCode stats** integration via GraphQL (automated on CI job).  
-  - **Timeline** of internships (Novatek, Propvia, Center College IT Services) with interactive cards.
-- Deployed on **Vercel**; automatically redeploys on every push to `main`.
-
-### 4. **Soccer Analytics Tool (Lab Project)**
-- Developed in **Python** (Pandas, NumPy, Matplotlib) for Centre College’s Lab of Computer Science.
-- Analyzes **player performance data** (per‐match heatmaps, passing networks) and outputs:
-  - **CSV summaries** for coaches (distance covered, successful passes, xG metrics).  
-  - **Interactive plots** to visualize trends over a season.
-- Learned: optimized DataFrame operations to process **>2000 rows** of match data in ~0.5 s.
-
----
-
-## 🎓 Education & Experience
-
-| Year     | Institution / Company                          | Role / Highlights                                     |
-|:--------:|:-----------------------------------------------|:------------------------------------------------------|
-| **2023–** | **Centre College**                             | B.S. in Computer Science (expected May 2027)           |
-|          |                                                | • Research Assistant (Soccer analytics with Python)   |
-|          |                                                | • RA (Resident Assistant)—leadership + conflict resolution |
-|          |                                                | • Dept. of IT Services—campus network & helpdesk support |
-| **Summer 2024** | **Novatek Technology JSC (Vietnam)**        | SWE Intern—backend development, DSA in Python & Java   |
-|          |                                                | • Built REST APIs with Flask; containerized via Docker |
-|          |                                                | • Implemented Stacks, Queues, LinkedLists, HashMaps    |
-| **Summer 2025** | **Propvia (Remote)**                        | Front-End Engineer Intern (Next.js, React, Tailwind)   |
-|          |                                                | • Designed & shipped new landing page → +12% traffic    |
-|          |                                                | • Integrated payment form & dashboard UI with Stripe   |
-
----
-
-## 🌐 Where to Find Me
-
-<p align="center">
-  <a href="mailto:robert.nguyen@example.com" target="_blank">✉️ Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/robert-nguyen-cc27/" target="_blank">🔗 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/robert_nguyen" target="_blank">🐦 Twitter</a> &nbsp;·&nbsp;
-  <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">🎮 Discord</a>
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,postgresql,mysql,mongodb,redis" alt="Backend Skills"/>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RobertNguyen&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertNguyen&layout=compact&theme=tokyonight" alt="Top Languages">
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab,linux" alt="DevOps Skills"/>
 </p>
 
----
-
-## ⚡ Fun Facts & Hobbies
-
-- 🦸‍♂️ **Resident Assistant**: I organize weekly community events, handle student concerns, and learn a ton about conflict resolution.  
-- 🎨 **Service-Learning**: I volunteer regularly at the **Art Center of the Bluegrass**, connecting coursework in leadership to real‐world community projects.  
-- 🎮 **Gaming & Modding**: In my free time, I tinker with game mods (Minecraft, Among Us) and explore iOS jailbreaking tools.  
-- 🏃 **Fitness**: I try to squeeze in 3 runs/week—always chasing that next PR!
-
----
-
-<p align="center">
-  <em>“Strive not to be a success, but rather to be of value.” – Albert Einstein</em>
+### 🔧 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,vim,bash,powershell" alt="Tools"/>
 </p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robert-nguyenn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-nguyenn&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robert-nguyenn&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert-nguyenn&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 💼 Professional Journey
+
+<div align="center">
+
+| 🏢 Company | 👨‍💻 Role | 📅 Duration | 🔗 Highlights |
+|------------|-----------|-------------|---------------|
+| **Propvia** | Software Engineer Intern | Summer 2025 | Responsive UI components & dashboard experience |
+| **Theta Zero Consulting** | Software Engineer Intern | Dec 2024 – Present | Full-stack development & CI/CD pipeline setup |
+| **Novatek Technology JSC** | Software Engineer Intern | May 2024 – Nov 2024 | Performance optimization on high-traffic platforms |
+| **Centre College** | Undergraduate Research Assistant | Jan 2024 – May 2024 | Campus systems maintenance |
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Graduate 2027] --> B[🚀 Full-Stack Mastery]
+    B --> C[☁️ Cloud Architecture]
+    C --> D[🏢 Tech Leadership]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+```
+
+</div>
+
+- 🔭 Building projects that solve real-world problems
+- 🌱 Diving deep into cloud architecture and microservices
+- 👯 Looking to collaborate on open-source projects
+- 💬 Always happy to discuss tech, startups, or life in general!
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/robert-nguyenn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:robert.nguyenanh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/robert-nguyenn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor%E2%80%94if+you+have+to+explain+it%2C+it's+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+code+is+no+code+at+all.%22" alt="Rotating Quotes"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 <i>Always open to interesting conversations and collaboration opportunities!</i></sub>
+</div>
