@@ -107,10 +107,10 @@ const robert = {
 
 | 🏢 Company | 👨‍💻 Role | 📅 Duration | 🔗 Highlights |
 |------------|-----------|-------------|---------------|
-| **Propvia** | Software Engineer Intern | Jun 2025 - Sep 2025 | Architecting scalable dashboard, optimizing React performance with lazy loading |
+| **Propvia** | Software Engineer Intern | Jun 2025 - Sep 2025 | Building enterprise React components with advanced optimization techniques |
 | **Theta Zero Consulting** | Software Engineer Intern | Dec 2024 – May 2025 | Full-stack development & CI/CD pipeline setup |
 | **Novatek Technology JSC** | Software Engineer Intern | May 2024 – Nov 2024 | Performance optimization on high-traffic platforms |
-| **Centre College** | Undergraduate Research Assistant | Jan 2024 - May 2024 | Sport Analytics Research |
+| **Centre College** | Undergraduate Research Assistant | Jan 2024 - May 2024 | Built Python ML pipeline processing 100K+ soccer telemetry events with 98% accuracy |
 
 </div>
 
