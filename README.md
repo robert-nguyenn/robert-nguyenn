@@ -105,14 +105,45 @@ const robert = {
 
 <div align="center">
 
-| 🏢 Company                     | 👩‍💻 Role                         | 📅 Duration        | 🔗 Highlights                                                                 |
-|-------------------------------|----------------------------------|-------------------|------------------------------------------------------------------------------|
-| **Propvia**                   | Software Engineer Intern         | 06/2025 – 09/2025 | Building enterprise React components with advanced optimization techniques   |
-| **Theta Zero Consulting**     | Software Engineer Intern         | 12/2024 – 05/2025 | Full-stack development & CI/CD pipeline setup                                |
-| **Novatek Technology JSC**    | Software Engineer Intern         | 05/2024 – 11/2024 | Performance optimization on high-traffic platforms                           |
-| **Centre College**            | Undergraduate Research Assistant | 01/2024 – 05/2024 | Built Python ML pipeline processing 100K+ soccer telemetry events w/ 98% acc. |
+<table>
+  <thead>
+    <tr>
+      <th>🏢 Company</th>
+      <th>👔 Role</th>
+      <th>📅 Duration</th>
+      <th>🔗 Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Propvia</b></td>
+      <td><font size="1">Software Engineer Intern</font></td>
+      <td><font size="1">06/2025–09/2025</font></td>
+      <td><font size="1">Building React components w/ advanced optimizations</font></td>
+    </tr>
+    <tr>
+      <td><b>Theta Zero Consulting</b></td>
+      <td><font size="1">Software Engineer Intern</font></td>
+      <td><font size="1">12/2024–05/2025</font></td>
+      <td><font size="1">Full-stack & CI/CD pipeline setup</font></td>
+    </tr>
+    <tr>
+      <td><b>Novatek Technology JSC</b></td>
+      <td><font size="1">Software Engineer Intern</font></td>
+      <td><font size="1">05/2024–11/2024</font></td>
+      <td><font size="1">Performance optimization on high-traffic platforms</font></td>
+    </tr>
+    <tr>
+      <td><b>Centre College</b></td>
+      <td><font size="1">Undergrad Research Assistant</font></td>
+      <td><font size="1">01/2024–05/2024</font></td>
+      <td><font size="1">Built Python ML pipeline (100K+ events, 98% accuracy)</font></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 ---
 
