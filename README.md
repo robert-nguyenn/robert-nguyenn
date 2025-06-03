@@ -107,10 +107,10 @@ const robert = {
 
 | 🏢 Company | 👨‍💻 Role | 📅 Duration | 🔗 Highlights |
 |------------|-----------|-------------|---------------|
-| **Propvia** | Software Engineer Intern | Jun 2025 - Sep 2025 | Building enterprise React components with advanced optimization techniques |
-| **Theta Zero Consulting** | Software Engineer Intern | Dec 2024 – May 2025 | Full-stack development & CI/CD pipeline setup |
-| **Novatek Technology JSC** | Software Engineer Intern | May 2024 – Nov 2024 | Performance optimization on high-traffic platforms |
-| **Centre College** | Undergraduate Research Assistant | Jan 2024 - May 2024 | Built Python ML pipeline processing 100K+ soccer telemetry events with 98% accuracy |
+| **Propvia** | Software Engineer Intern | 06/2025 - 09/2025 | Building enterprise React components with advanced optimization techniques |
+| **Theta Zero Consulting** | Software Engineer Intern | 12/2024 – 05/2025 | Full-stack development & CI/CD pipeline setup |
+| **Novatek Technology JSC** | Software Engineer Intern | 05/2024 – 11/2024 | Performance optimization on high-traffic platforms |
+| **Centre College** | Undergraduate Research Assistant | 01/2024 - 05/2024 | Built Python ML pipeline processing 100K+ soccer telemetry events with 98% accuracy |
 
 </div>
 
@@ -134,11 +134,11 @@ graph LR
 
 </div>
 
-🚀 **Building production-ready applications** with intelligent features and AI integration
-📈 **Performance optimization specialist** - consistently deliver 40%+ improvements in system efficiency
-🤖 **Exploring AI applications** in web development and user experience enhancement
-🤝 **Open to challenging full-time opportunities** starting Summer 2027
-💡 **Love architecting scalable solutions** that handle enterprise-level traffic
+🚀 **Building production-ready applications** with intelligent features and AI integration <br>
+📈 **Performance optimization specialist** - consistently deliver 40%+ improvements in system efficiency <br>
+🤖 **Exploring AI applications** in web development and user experience enhancement <br>
+🤝 **Open to challenging full-time opportunities** starting Summer 2027 <br>
+💡 **Love architecting scalable solutions** that handle enterprise-level traffic <br>
 
 ---
 
