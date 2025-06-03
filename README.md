@@ -105,14 +105,15 @@ const robert = {
 
 <div align="center">
 
-| 🏢 Company | 👨‍💻 Role | 📅 Duration | 🔗 Highlights |
-|------------|-----------|-------------|---------------|
-| **Propvia** | Software Engineer Intern | 06/2025 - 09/2025 | Building enterprise React components with advanced optimization techniques |
-| **Theta Zero Consulting** | Software Engineer Intern | 12/2024 – 05/2025 | Full-stack development & CI/CD pipeline setup |
-| **Novatek Technology JSC** | Software Engineer Intern | 05/2024 – 11/2024 | Performance optimization on high-traffic platforms |
-| **Centre College** | Undergraduate Research Assistant | 01/2024 - 05/2024 | Built Python ML pipeline processing 100K+ soccer telemetry events with 98% accuracy |
+| 🏢 Company                     | 👩‍💻 Role                         | 📅 Duration        | 🔗 Highlights                                                                 |
+|-------------------------------|----------------------------------|-------------------|------------------------------------------------------------------------------|
+| **Propvia**                   | Software Engineer Intern         | 06/2025 – 09/2025 | Building enterprise React components with advanced optimization techniques   |
+| **Theta Zero Consulting**     | Software Engineer Intern         | 12/2024 – 05/2025 | Full-stack development & CI/CD pipeline setup                                |
+| **Novatek Technology JSC**    | Software Engineer Intern         | 05/2024 – 11/2024 | Performance optimization on high-traffic platforms                           |
+| **Centre College**            | Undergraduate Research Assistant | 01/2024 – 05/2024 | Built Python ML pipeline processing 100K+ soccer telemetry events w/ 98% acc. |
 
 </div>
+
 
 ---
 
