@@ -18,6 +18,20 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
 </div>
 
+## 🎖️ Key Achievements & Impact
+
+<div align="center">
+  
+| 🎯 **Metric** | 📊 **Achievement** | 🚀 **Context** |
+|---------------|-------------------|----------------|
+| **Performance** | 40% load time reduction | High-traffic consumer platforms |
+| **Scale** | 10K+ daily users | Production applications |
+| **Deployment** | 60% faster CI/CD | Automated pipeline optimization |
+| **Leadership** | 300+ students mentored | Campus community building |
+| **Experience** | 3 tech internships | Diverse industry exposure |
+
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -26,9 +40,9 @@
 const robert = {
     pronouns: "he/him",
     location: "Centre College, Kentucky 🏫",
-    currentFocus: "Full-Stack Development & System Architecture & AI",
+    currentFocus: "Full-Stack Development & System Architecture",
     yearOfGraduation: 2027,
-    workingOn: "Building scalable software applications",
+    workingOn: "Building scalable web applications",
     learningNext: ["GraphQL", "Kubernetes", "Microservices"],
     askMeAbout: ["React", "Django", "System Design", "DevOps"],
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
@@ -43,22 +57,22 @@ const robert = {
 
 ### 🎨 Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,bootstrap,sass" alt="Frontend Skills"/>
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,postgresql,mysql,mongodb,redis" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,spring,postgresql,mysql,mongodb,redis" alt="Backend Skills"/>
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab,linux" alt="DevOps Skills"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,github,gitlab,nginx,linux" alt="DevOps Skills"/>
 </p>
 
 ### 🔧 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,vim,bash,powershell" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,netlify,vim,bash,powershell" alt="Tools"/>
 </p>
 
 </div>
@@ -88,10 +102,10 @@ const robert = {
 
 | 🏢 Company | 👨‍💻 Role | 📅 Duration | 🔗 Highlights |
 |------------|-----------|-------------|---------------|
-| **Propvia** | Software Engineer Intern | Summer 2025 | Responsive UI components & dashboard experience |
 | **Theta Zero Consulting** | Software Engineer Intern | Dec 2024 – Present | Full-stack development & CI/CD pipeline setup |
 | **Novatek Technology JSC** | Software Engineer Intern | May 2024 – Nov 2024 | Performance optimization on high-traffic platforms |
-| **Centre College** | Undergraduate Research Assistant | Jan 2024 – May 2024 | Campus systems maintenance |
+| **Propvia** | Front-End Intern | Summer 2025 | Responsive UI components & dashboard experience |
+| **Centre College** | IT Technician & RA | 2023 – Present | Campus systems maintenance & community leadership |
 
 </div>
 
@@ -103,9 +117,9 @@ const robert = {
 
 ```mermaid
 graph LR
-    A[🎓 Graduate 2027] --> B[🚀 Full-Stack Mastery]
-    B --> C[☁️ Cloud Architecture]
-    C --> D[🏢 Tech Leadership]
+    A[🎓 CS Degree 2027] --> B[🚀 Production Experience]
+    B --> C[⚡ Performance Expert]
+    C --> D[🏢 Big Tech Ready]
     
     style A fill:#ff6b6b
     style B fill:#4ecdc4
@@ -115,10 +129,11 @@ graph LR
 
 </div>
 
-- 🔭 Building projects that solve real-world problems
-- 🌱 Diving deep into cloud architecture and microservices
-- 👯 Looking to collaborate on open-source projects
-- 💬 Always happy to discuss tech, startups, or life in general!
+- 🚀 **Building production-ready applications** that handle thousands of concurrent users
+- 📈 **Passionate about performance optimization** - reduced load times by 40% across multiple projects
+- 🤝 **Open to challenging full-time opportunities** starting Summer 2027
+- 💡 **Love solving complex problems** through elegant, scalable solutions
+- 🌟 **Seeking mentorship opportunities** at top-tier tech companies
 
 ---
 
@@ -133,6 +148,9 @@ graph LR
   </a>
   <a href="https://github.com/robert-nguyenn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
