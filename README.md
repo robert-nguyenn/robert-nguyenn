@@ -137,7 +137,7 @@ const robert = {
       <td><b>Centre College</b></td>
       <td><font size="1">Undergrad Research Assistant</font></td>
       <td><font size="1">01/2024–05/2024</font></td>
-      <td><font size="1">Built Python ML pipeline (100K+ events, 98% accuracy)</font></td>
+      <td><font size="1">Built Python ML pipeline (100K+ events, 98% acc.)</font></td>
     </tr>
   </tbody>
 </table>
