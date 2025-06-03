@@ -26,9 +26,9 @@
 const robert = {
     pronouns: "he/him",
     location: "Centre College, Kentucky 🏫",
-    currentFocus: "Full-Stack Development & System Architecture",
+    currentFocus: "Full-Stack Development & System Architecture & AI",
     yearOfGraduation: 2027,
-    workingOn: "Building scalable web applications",
+    workingOn: "Building scalable software applications",
     learningNext: ["GraphQL", "Kubernetes", "Microservices"],
     askMeAbout: ["React", "Django", "System Design", "DevOps"],
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
