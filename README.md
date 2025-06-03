@@ -25,9 +25,9 @@
 | 🎯 **Metric** | 📊 **Achievement** | 🚀 **Context** |
 |---------------|-------------------|----------------|
 | **Performance** | 40% load time reduction | High-traffic consumer platforms |
-| **Scale** | 100K+ daily users | Production applications |
+| **Scale** | 10K+ daily users | Production applications |
 | **Deployment** | 60% faster CI/CD | Automated pipeline optimization |
-| **Leadership** | 50+ students mentored | Campus community building |
+| **Leadership** | 500+ students mentored | Campus community building |
 | **Experience** | 3 tech internships | Diverse industry exposure |
 
 </div>
@@ -62,22 +62,22 @@ const robert = {
 
 ### 🎨 Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,bootstrap,sass" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap" alt="Frontend Skills"/>
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,spring,postgresql,mysql,mongodb,redis" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,postgresql,mysql,mongodb" alt="Backend Skills"/>
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,github,gitlab,nginx,linux" alt="DevOps Skills"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab,linux" alt="DevOps Skills"/>
 </p>
 
 ### 🔧 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,netlify,vim,bash,powershell" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,bash,powershell" alt="Tools"/>
 </p>
 
 </div>
@@ -142,24 +142,11 @@ graph LR
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/robert-nguyenn/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nguyenn&repo=project1&theme=radical" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/robert-nguyenn/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robert-nguyenn&repo=project2&theme=radical" alt="Project 2"/>
-  </a>
-</div>
-
----
-
 ## 🤝 Ready for Your Next Challenge?
 
 <div align="center">
   
-**🎯 Actively seeking Summer 2027 New Grad opportunities at innovative tech companies**
+**🎯 Actively seeking Internship opportunities at innovative tech companies**
 
 *Passionate about building scalable systems, optimizing performance, and integrating AI into user experiences*
 
