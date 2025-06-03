@@ -102,10 +102,10 @@ const robert = {
 
 | 🏢 Company | 👨‍💻 Role | 📅 Duration | 🔗 Highlights |
 |------------|-----------|-------------|---------------|
+| **Propvia** | Software Engineer Intern | Jun 2025 – Sep 2025 | Responsive UI components & dashboard experience |
 | **Theta Zero Consulting** | Software Engineer Intern | Dec 2024 – Present | Full-stack development & CI/CD pipeline setup |
 | **Novatek Technology JSC** | Software Engineer Intern | May 2024 – Nov 2024 | Performance optimization on high-traffic platforms |
-| **Propvia** | Front-End Intern | Summer 2025 | Responsive UI components & dashboard experience |
-| **Centre College** | IT Technician & RA | 2023 – Present | Campus systems maintenance & community leadership |
+| **Centre College** | IT Technician | jan 2024 - May 2024 | Campus systems maintenance |
 
 </div>
 
