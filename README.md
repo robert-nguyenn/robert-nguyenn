@@ -87,16 +87,22 @@ const robert = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robert-nguyenn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-nguyenn&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robert-nguyenn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-nguyenn&layout=compact&langs_count=8&theme=radical&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=robert-nguyenn&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=robert-nguyenn&theme=radical&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
+<!-- Enhanced GitHub Metrics -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert-nguyenn&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robert-nguyenn&theme=radical" alt="GitHub Profile Summary"/>
+</div>
+
+<!-- Contribution Activity Graph with Dynamic Year -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert-nguyenn&theme=react-dark&hide_border=true&area=true&line=FF6B6B&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -143,7 +149,6 @@ const robert = {
 </table>
 
 </div>
-
 
 ---
 
