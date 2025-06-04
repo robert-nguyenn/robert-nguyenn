@@ -94,7 +94,7 @@ const robert = {
 
 ### 💻 GitHub Statistics
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=robert-nguyenn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats Alt 2"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=robert-nguyenn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robert-nguyenn&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=20"/>
 
 ### 📈 Activity Graph
