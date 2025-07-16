@@ -54,30 +54,15 @@ const robert = {
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI Skills"/>
-</p>
+### 🤖 AI & Machine Learning: <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI Skills"/>
 
-### 🎨 Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap" alt="Frontend Skills"/>
-</p>
+### 🎨 Frontend Technologies: <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap" alt="Frontend Skills"/>
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,postgresql,mysql,mongodb" alt="Backend Skills"/>
-</p>
+### ⚙️ Backend & Database: <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,postgresql,mysql,mongodb" alt="Backend Skills"/>
 
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab,linux" alt="DevOps Skills"/>
-</p>
+### ☁️ DevOps & Cloud: <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab,linux" alt="DevOps Skills"/>
 
-### 🔧 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,bash,powershell" alt="Tools"/>
-</p>
+### 🔧 Tools & Others: <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,bash,powershell" alt="Tools"/>
 
 </div>
 
