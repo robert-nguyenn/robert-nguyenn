@@ -106,7 +106,6 @@ const robert = {
       <th>🏢 Company</th>
       <th>👔 Role</th>
       <th>📅 Duration</th>
-      <th>🔗 Highlights</th>
     </tr>
   </thead>
   <tbody>
@@ -114,66 +113,30 @@ const robert = {
       <td><b>Propvia</b></td>
       <td><font size="1">Software Engineer Intern</font></td>
       <td><font size="1">06/2025–09/2025</font></td>
-      <td><font size="1">Building React components w/ advanced optimizations</font></td>
     </tr>
     <tr>
       <td><b>Theta Zero Consulting</b></td>
       <td><font size="1">Software Engineer Intern</font></td>
-      <td><font size="1">12/2024–05/2025</font></td>
-      <td><font size="1">Full-stack & CI/CD pipeline setup</font></td>
+      <td><font size="1">12/2024–05/2025</font></td>>
     </tr>
     <tr>
       <td><b>Novatek Technology JSC</b></td>
       <td><font size="1">Software Engineer Intern</font></td>
       <td><font size="1">05/2024–11/2024</font></td>
-      <td><font size="1">Performance optimization on high-traffic platforms</font></td>
     </tr>
     <tr>
       <td><b>Centre College</b></td>
       <td><font size="1">Undergrad Research Assistant</font></td>
       <td><font size="1">01/2024–05/2024</font></td>
-      <td><font size="1">Built Python ML pipeline (100K+ events, 98% acc.)</font></td>
     </tr>
   </tbody>
 </table>
 
 </div>
 
----
-
-## 🎯 Current Goals
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 CS Degree 2027] --> B[🚀 Production Experience]
-    B --> C[⚡ Performance Expert]
-    C --> D[🏢 Big Tech Ready]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-```
-
-</div>
-
-🚀 **Building production-ready applications** with intelligent features and AI integration <br>
-📈 **Performance optimization specialist** - consistently deliver 40%+ improvements in system efficiency <br>
-🤖 **Exploring AI applications** in web development and user experience enhancement <br>
-🤝 **Open to challenging full-time opportunities** starting Summer 2027 <br>
-💡 **Love architecting scalable solutions** that handle enterprise-level traffic <br>
-
----
-
 ## 🤝 Ready for Your Next Challenge?
 
 <div align="center">
-  
-**🎯 Actively seeking Internship opportunities at innovative tech companies**
-
-*Passionate about building scalable systems, optimizing performance, and integrating AI into user experiences*
 
   <a href="https://www.linkedin.com/in/robert-nguyenn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -185,13 +148,4 @@ graph LR
     <img src="https://img.shields.io/badge/GitHub-View_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=%22Code+is+like+humor%E2%80%94if+you+have+to+explain+it%2C+it's+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+code+is+no+code+at+all.%22" alt="Rotating Quotes"/>
 </div>
