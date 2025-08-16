@@ -17,22 +17,6 @@
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
 </div>
 
-## 🎖️ Key Achievements & Impact
-
-<div align="center">
-  
-| 🎯 **Metric** | 📊 **Achievement** | 🚀 **Context** |
-|---------------|-------------------|----------------|
-| **Performance** | 40% load time reduction | High-traffic consumer platforms |
-| **Scale** | 10K+ daily users | Production applications |
-| **Deployment** | 60% faster CI/CD | Automated pipeline optimization |
-| **Leadership** | 500+ students mentored | Campus community building |
-| **Experience** | 3 tech internships | Diverse industry exposure |
-
-</div>
-
----
-
 ## 🚀 About Me
 
 ```javascript
