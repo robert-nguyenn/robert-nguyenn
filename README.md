@@ -110,8 +110,5 @@ const robert = {
   <a href="mailto:robert.nguyenanh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/robert-nguyenn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 </div>
