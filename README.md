@@ -22,13 +22,11 @@
 ```javascript
 const robert = {
     pronouns: "he/him",
-    location: "Centre College, Kentucky 🏫",
     currentFocus: "Software Development & System Architecture",
     yearOfGraduation: 2027,
     workingOn: "Building scalable software applications",
     learningNext: ["GraphQL", "Kubernetes", "Microservices"],
     askMeAbout: ["React", "Django", "System Design", "DevOps"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
 ```
 
@@ -88,13 +86,13 @@ const robert = {
       <td><font size="1">12/2024–05/2025</font></td>>
     </tr>
     <tr>
-      <td><b>Novatek Technology JSC</b></td>
+      <td><b>Novatek Technology</b></td>
       <td><font size="1">Software Engineer Intern</font></td>
       <td><font size="1">05/2024–11/2024</font></td>
     </tr>
     <tr>
       <td><b>Centre College</b></td>
-      <td><font size="1">Undergrad Research Assistant</font></td>
+      <td><font size="1">Undergraduate Researcher</font></td>
       <td><font size="1">01/2024–05/2024</font></td>
     </tr>
   </tbody>
