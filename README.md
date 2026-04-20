@@ -23,10 +23,7 @@
 const robert = {
     pronouns: "he/him",
     currentFocus: "Software Development & System Architecture",
-    yearOfGraduation: 2027,
     workingOn: "Building scalable software applications",
-    learningNext: ["GraphQL", "Kubernetes", "Microservices"],
-    askMeAbout: ["React", "Django", "System Design", "DevOps"],
 };
 ```
 
@@ -48,59 +45,9 @@ const robert = {
 
 </div>
 
----
-
-## 📊 GitHub Analytics 🔥
-
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=robert-nguyenn&theme=radical&include_all_commits=true&hide_border=true&border_radius=20" alt="GitHub Streak"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=robert-nguyenn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robert-nguyenn&theme=react-dark&hide_border=true&area=true&line=FF6B6B&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph"/>
-
 </div>
 
----
-
-## 💼 Professional Journey
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>🏢 Company</th>
-      <th>👔 Role</th>
-      <th>📅 Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Propvia</b></td>
-      <td><font size="1">Software Engineer Intern</font></td>
-      <td><font size="1">06/2025–09/2025</font></td>
-    </tr>
-    <tr>
-      <td><b>Theta Zero Consulting</b></td>
-      <td><font size="1">Software Engineer Intern</font></td>
-      <td><font size="1">12/2024–05/2025</font></td>>
-    </tr>
-    <tr>
-      <td><b>Novatek Technology</b></td>
-      <td><font size="1">Software Engineer Intern</font></td>
-      <td><font size="1">05/2024–11/2024</font></td>
-    </tr>
-    <tr>
-      <td><b>Centre College</b></td>
-      <td><font size="1">Undergraduate Researcher</font></td>
-      <td><font size="1">01/2024–05/2024</font></td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-## 🤝 Ready for Your Next Challenge?
+## Let's Connect
 
 <div align="center">
 
