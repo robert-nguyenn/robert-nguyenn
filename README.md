@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Welcome to my Digital Playground!
+  Welcome!
 </h1>
 
 <div align="center">
@@ -20,7 +20,7 @@
 ## About Me
 
 ```javascript
-const robert = {
+const robert/hung anh = {
     pronouns: "he/him",
     currentFocus: "Software Development & System Architecture",
     workingOn: "Building scalable software applications",
