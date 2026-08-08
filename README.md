@@ -21,41 +21,5 @@
 
 ```javascript
 const robert/hung anh = {
-    pronouns: "he/him",
-    currentFocus: "Software Development & System Architecture",
-    workingOn: "Building scalable software applications",
 };
 ```
-
----
-
-## Tech Arsenal
-
-<div align="center">
-
-### AI & Machine Learning: <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI Skills"/>
-
-### Frontend Technologies: <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap" alt="Frontend Skills"/>
-
-### Backend & Database: <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,java,postgresql,mysql,mongodb" alt="Backend Skills"/>
-
-### DevOps & Cloud: <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab,linux" alt="DevOps Skills"/>
-
-### Tools & Others: <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,firebase,vercel,bash,powershell" alt="Tools"/>
-
-</div>
-
-</div>
-
-## Let's Connect
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/robert-nguyenn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:robert.nguyenanh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-</div>
