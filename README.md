@@ -16,10 +16,3 @@
   <img src="https://img.shields.io/github/followers/robert-nguyenn?style=for-the-badge&color=4CAF50" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
 </div>
-
-## About Me
-
-```javascript
-const robert/hung anh = {
-};
-```
